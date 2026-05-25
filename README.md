@@ -5,7 +5,7 @@
 AIPatrol is a lightweight browser extension that warns you before API keys, passwords, PII, and confidential data are submitted to AI tools like ChatGPT, Claude, Gemini, Perplexity, and more.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-BSL_1.1-blue)
 ![Manifest](https://img.shields.io/badge/manifest-v3-orange)
 
 ---
@@ -100,4 +100,11 @@ AIPatrol processes everything locally in your browser. No data is ever transmitt
 
 ## 📄 License
 
-MIT © [Sudhakar Ethirajulu](https://github.com/ashoksudhakar2001-svg)
+This project is licensed under the **[Business Source License 1.1](LICENSE)**.
+
+- ✅ Free for personal, non-commercial use
+- ✅ Source code visible for security auditing
+- ❌ Commercial use requires a licence — contact [ashok.sudhakar2001@gmail.com](mailto:ashok.sudhakar2001@gmail.com)
+- 🔄 Converts to Apache 2.0 on 2029-05-25
+
+© 2025 Sudhakar Ethirajulu
