@@ -57,7 +57,7 @@ describe('Detection Pipeline', () => {
     });
 
     test('detects MongoDB connection string', () => {
-      const result = runDetectionPipeline('mongodb+srv://user:p4ssw0rd@cluster0.abc.mongodb.net/mydb');
+      const result = runDetectionPipeline('mongodb+srv://testuser:FAKE_PASSWORD_123@cluster0.invalid-test-domain.example/mydb');
       expect(result.action).toBe('WARN');
     });
 
