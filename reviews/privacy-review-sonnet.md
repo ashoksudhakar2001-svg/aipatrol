@@ -19,7 +19,7 @@ This privacy policy is commendable in its privacy-first design but contains mult
   ```
 
 ### **CRITICAL** — Invalid/Suspicious Contact Email
-- **Issue:** Contact email is listed as `sethiramicrosoft@github.com`. GitHub does not provide email hosting at `@github.com` for users. This appears to be a fabricated address and will bounce. It also falsely implies Microsoft affiliation.
+- **Issue:** Contact email is listed as `ashoksudhakar2001-svg@github.com`. GitHub does not provide email hosting at `@github.com` for users. This appears to be a fabricated address and will bounce. It also falsely implies Microsoft affiliation.
 - **Risk:** GDPR Art. 13(1)(a) requires valid contact details. Providing a non-functional email is misrepresentation and renders the entire policy non-compliant. Chrome Web Store may suspend the extension for impersonation (Microsoft brand). Users cannot exercise GDPR/CCPA rights. Opens developer to fraud claims.
 - **Fix:** Replace with a real, monitored email address:
   ```

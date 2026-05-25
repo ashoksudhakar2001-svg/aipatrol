@@ -113,7 +113,7 @@ This policy is directionally aligned with a “local-only/no telemetry” extens
   > “If we add new supported sites or request additional permissions, we will disclose this in release notes and update this policy.”
 
 ### Low — Contact method is weak and potentially non-compliant for notices
-- **Issue:** “GitHub repository or sethiramicrosoft@github.com” is vague (no direct link; no postal address; unclear response process).
+- **Issue:** “GitHub repository or ashoksudhakar2001-svg@github.com” is vague (no direct link; no postal address; unclear response process).
 - **Risk:** User support friction; transparency criticism.
 - **Fix:** Provide a clear contact section. **Suggested text:**
   > “Contact: privacy@[domain] (preferred), support@[domain]. Repository: https://github.com/[org]/[repo].”

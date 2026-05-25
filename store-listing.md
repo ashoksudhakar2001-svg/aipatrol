@@ -96,7 +96,7 @@ PII detection, privacy, data leak, sensitive data, enterprise security, copilot
 ## Chrome Web Store Listing Notes
 - One-time developer fee: $5 USD
 - Upload: AIPatrol-v1.0.0.zip
-- Privacy policy URL: https://sethiramicrosoft.github.io/AIPatrol/privacy.html
+- Privacy policy URL: https://ashoksudhakar2001-svg.github.io/AIPatrol/privacy.html
 - Review time: 1–3 business days
 
 ## Edge Add-ons Listing Notes
@@ -110,6 +110,6 @@ PII detection, privacy, data leak, sensitive data, enterprise security, copilot
 
 ## Privacy Policy URL (after GitHub Pages setup)
 ```
-https://sethiramicrosoft.github.io/AIPatrol/privacy.html
+https://ashoksudhakar2001-svg.github.io/AIPatrol/privacy.html
 ```
-Replace sethiramicrosoft with your actual GitHub username.
+Replace ashoksudhakar2001-svg with your actual GitHub username.
